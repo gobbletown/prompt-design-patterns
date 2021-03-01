@@ -1,0 +1,4 @@
+* =prompt-engineering-patterns=
+This repository is a space to design design
+patterns (the designing of new design
+patterns) for prompt engineering.
