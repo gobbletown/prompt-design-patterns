@@ -1,0 +1,11 @@
+* _Example separator_ pattern
+
+Example: =###=.
+
+You can use other characters or line breaks,
+but =###= works pretty consistently and is
+also an easy to use stop sequence.
+
+Whatever separator you use, make sure that
+it’s clear to the API where an example starts
+and stops.
