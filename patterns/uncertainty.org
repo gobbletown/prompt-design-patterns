@@ -1,0 +1,4 @@
+https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/
+
+e:$MYGIT/semiosis/prompts/prompts/yo-be-real.prompt
+http://github.com/semiosis/prompts/blob/master/prompts/yo-be-real.prompt
