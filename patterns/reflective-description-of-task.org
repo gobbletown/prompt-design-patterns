@@ -1,4 +1,4 @@
-* _Preceeding explanation_ pattern
+* prelude / _Preceeding explanation_ pattern
 
 State what the prompt does at the start At the
 start of the example we state in plain

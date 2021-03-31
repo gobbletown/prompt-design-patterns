@@ -1,4 +1,4 @@
-* _Example separator_ pattern
+* ### pattern / _Example separator_ pattern
 
 Example: =###=.
 
