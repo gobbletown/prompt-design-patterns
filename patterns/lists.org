@@ -1,5 +1,5 @@
 * Types of lists
-Comma delimited is useful for multiple lists
+I have a hunch that dash delimited is more reliable.
 
 ** comma delimited
 Myanmar,Finland,American Samoa,Belgium,Vanuatu,Sudan,Israel,Ecuador
