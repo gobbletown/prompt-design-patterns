@@ -5,7 +5,7 @@
   # At 05:20 on Sunday.
 #+END_SRC
 
-** Bad pattern
+** Good pattern
 #+BEGIN_SRC text -n :async :results verbatim code
   Minute: 20
   Hour: 5
