@@ -1,0 +1,12 @@
+* Legend
+** Bad pattern
+#+BEGIN_SRC text -n :async :results verbatim code
+  20 5 * * 7
+  # At 05:20 on Sunday.
+#+END_SRC
+
+** Bad pattern
+#+BEGIN_SRC text -n :async :results verbatim code
+  20 5 * * 7
+  # At 05:20 on Sunday.
+#+END_SRC
