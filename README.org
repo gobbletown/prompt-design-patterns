@@ -1,3 +1,3 @@
 * =prompt-design-patterns=
 
-This is a repository of design patterns for writing prompts.
+Design patterns for writing prompts.
