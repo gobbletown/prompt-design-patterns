@@ -7,6 +7,10 @@
 
 ** Bad pattern
 #+BEGIN_SRC text -n :async :results verbatim code
-  20 5 * * 7
+  Minute: 20
+  Hour: 5
+  Day of month: *
+  Month: *
+  Day of week: 7
   # At 05:20 on Sunday.
 #+END_SRC
