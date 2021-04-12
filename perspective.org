@@ -1,0 +1,4 @@
+* These prompts will be discovered, or are discoverable
+It's probable that one can discover good prompts by re-using probably completions.
+
+** I should automate this process
