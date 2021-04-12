@@ -1,6 +1,10 @@
-* _Multiple language blocks_ pattern
+* code _Multiple language blocks_ pattern
 ** Purpose
 This allows the prompt to generalise over different languages.
+
+** Improvements
+Use the markdown style.
+# This might improve the predictions.
 
 ** Example
 #+BEGIN_SRC text -n :async :results verbatim code
