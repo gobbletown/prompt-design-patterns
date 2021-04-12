@@ -2,6 +2,9 @@
 ** Purpose
 This allows the prompt to generalise over different languages.
 
+** Examples
+http://github.com/mullikine/prompts/blob/master/prompts/annotate-with-commentary.prompt
+
 ** Improvements
 Use the markdown style.
 # This may improve the predictions.
