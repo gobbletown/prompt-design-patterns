@@ -1,0 +1,44 @@
+* _Multiple language blocks_ pattern
+** Purpose
+This allows the prompt to generalise over different languages.
+
+** Example
+#+BEGIN_SRC text -n :async :results verbatim code
+  Reformat/tidy the following code:
+  
+  ###
+  Language: perl
+  Code:
+  # print the time line on top
+  my $step=($maxtime - $firsttime) / 15;while ($time < $maxtime) { my $s3=($time - $firsttime) * $mult;my $tm=int($time * 100) / 100.0;$time=$time + $step;};print "</svg>\n";
+  Tidied code:
+  # print the time line on top
+  my $step = ($maxtime - $firsttime) / 15;
+  while ($time < $maxtime) {
+      my $s3 = ($time - $firsttime) * $mult;
+      my $tm = int($time * 100) / 100.0;
+      $time = $time + $step;
+  }
+  
+  print "</svg>\n";
+  ###
+  Language: awk
+  Code:
+  BEGIN { print "# Output of exaudit.awk - DO NOT EDIT." topheader = 0; okay = 0; code = 0; } END { print "# end of audit codes." }
+  Tidied code:
+  BEGIN {
+    print "# Output of exaudit.awk - DO NOT EDIT."
+    topheader = 0;
+    okay = 0;
+    code = 0;
+  }
+  
+  END {
+    print "# end of audit codes."
+  }
+  ###
+  Language: <2>
+  Code:
+  <1>
+  Tidied code:
+#+END_SRC
