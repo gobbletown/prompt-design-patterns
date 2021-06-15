@@ -1,0 +1,3 @@
+* Theory:
+It may be better to check output in the postprocessor than ask GPT-3 to be
+the predicate
